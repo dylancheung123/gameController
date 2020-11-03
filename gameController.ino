@@ -1,9 +1,9 @@
-#include "Joystick.h"
+// #include "Joystick.h"
 #include "Mouse.h"
 #include "Keyboard.h"
 #include "math.h"
 
-Joystick_ Joystick;
+// Joystick_ Joystick;
 
 // set pin numbers for switch, joystick axes, and LED:
 const int button1pin = 4;
@@ -63,7 +63,7 @@ void setup() {
   digitalWrite(mouseButton, HIGH);
   Mouse.begin();
   Keyboard.begin();
-  Joystick.begin();
+  // Joystick.begin();
   Serial.println("Mouse, joystick and keyboard modules are initialized");
 }
 
