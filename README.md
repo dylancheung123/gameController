@@ -40,5 +40,5 @@ Other pc games such as Fortnite supports this simultaneous input, so it may be w
 ![Assembled Print 3](./images/IMG_5383.jpg)
 ![Wiring the Switches](./images/IMG_5382.jpg)
 ![Setting the Nuts into the PLA](./images/IMG_5381.jpg)
-![Switch Mount Model](./images/keymount_model.jpg)
+![Switch Mount Model](./images/keymount_model.JPG)
 ![Printed Switch Mount](./images/IMG_5360.jpg)
